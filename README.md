@@ -23,7 +23,7 @@
 - 📫 Reach me on Insta - @bansi_5513
 
 
----
+<--
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -38,7 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" width="40" />
 <!--   <img src="" height="40" width="40" /> -->
-</div>
+</div> -->
 
 ---
 
