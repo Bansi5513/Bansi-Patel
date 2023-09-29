@@ -22,28 +22,8 @@
 - 🌱 Currently learning Web Dev
 - 📫 Reach me on Insta - @bansi_5513
 
-
-
-
-<!-- ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40" width="40" />
-  <img src="" height="40" width="40" /> 
-</div> 
- -->
----
-
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bansi5513&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bansi5513&theme=dark)](https://git.io/streak-stats)
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Bansi5513&theme=dark)
