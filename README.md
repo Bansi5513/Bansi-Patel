@@ -19,7 +19,7 @@
 
 ### :woman_technologist: About Me :
 - 👋 Hi, I’m @Bansi5513
-- 🌱 Currently learning Web Dev
+- 🌱 I'm currently engaged in multifaceted learning, with a primary focus on web development complemented by exploration in AI/ML and mobile app development.
 - 📫 Reach me on Insta - @bansi_5513
 
 ### :fire: My Stats :
